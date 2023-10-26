@@ -1,6 +1,6 @@
 Kuvassa lähetän pingin eli icmp requestin googlen julkiselle IPv4 osoitteelle. Osoite saatu https://www.lifewire.com/what-is-the-ip-address-of-google-818153 sivustolta (vaikka voi laittaa ping google.com)
 Wireshark ohjelmalla näkee mistä request on lähetetty (source, eli minä) ja destination eli google (ip osoite 64.233.160.0) 
 
-![a9672881180d2c2c3d2899c39dcb8886](https://github.com/bgm033/Tunkeutumisalkutesti/assets/148756463/aeb8cd74-2920-44a4-addb-41fc2ba7b3d6)
+![](a9672881180d2c2c3d2899c39dcb8886/a9672881180d2c2c3d2899c39dcb8886.png)
 
 ![](https://gyazo.com/a9672881180d2c2c3d2899c39dcb8886.png)
